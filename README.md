@@ -1,6 +1,6 @@
 # Flight-price-predictor-ML-
 
-## WEB APP LINK -> https://sagemaker-flight-prices-prediction-5yfn7cnnpxta2k23jvf4ic.streamlit.app/
+### WEB APP LINK -> https://sagemaker-flight-prices-prediction-5yfn7cnnpxta2k23jvf4ic.streamlit.app/
 
 This ML project aims to preprocess flight data, train a machine learning model, and deploy a web application for predicting flight prices.
 
@@ -24,7 +24,7 @@ This ML project aims to preprocess flight data, train a machine learning model, 
 - Configures and builds a web application for flight price prediction.
 - Accepts user inputs for flight details, preprocesses the inputs, loads the saved preprocessor and model, and displays the predicted price using Streamlit.
 
-## WEB APP LINK -> https://sagemaker-flight-prices-prediction-5yfn7cnnpxta2k23jvf4ic.streamlit.app/
+### WEB APP LINK -> https://sagemaker-flight-prices-prediction-5yfn7cnnpxta2k23jvf4ic.streamlit.app/
 
 
 
